@@ -1,0 +1,47 @@
+{
+  "name": "jatb",
+  "version": "1.0.0",
+  "description": "Just Another Trading Bot, this bot use Binance API to predict cryptocurrencies",
+  "author": "ZappaBoy",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "dev": "pm2-runtime app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ZappaBoy/justanothertradingbot.git"
+  },
+  "keywords": [
+    "Just",
+    "Another",
+    "Trading",
+    "Bot"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/ZappaBoy/JustAnotherTradingBot/issues"
+  },
+  "homepage": "https://github.com/ZappaBoy/JustAnotherTradingBot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "binance-api-node": "^0.10.49",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.6.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.13",
+    "technicalindicators": "^3.1.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}

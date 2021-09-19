@@ -1,0 +1,209 @@
+{
+  "CREDENTIALS": {
+    "API_KEY": "",
+    "API_SECRET": ""
+  },
+  "SYNCHRONIZED_LOOP": true,
+  "MINUTES_FOR_LOOP": 0,
+  "SECONDS_FOR_LOOP": 0,
+  "PRIMARY_QUOTE_ASSET": "USDT",
+  "SECONDARY_QUOTE_ASSET": "BTC",
+  "CAPITAL_TO_USE_PERCENTAGE": 98,
+  "REAL_TIME_MODE": false,
+  "SINGLE_TRADE_MODE": false,
+  "STATIC_SYMBOLS_DEFINED": false,
+  "MARKET_TYPE": true,
+  "ENABLE_INITIAL_ASSETS_CONVERSION": false,
+  "SORT_BY_MARKET_CAP": true,
+  "ANALYZE_ALL_COINS": false,
+  "FORCE_TREND_CHECK": true,
+  "MAX_TOP_COINS_TO_ANALYZE": 60,
+  "UPTREND_INTENSITY_TRIGGER": 0,
+  "BUY_PERCENTAGE_GAP_TRIGGER": 3.5,
+  "FEES_PERCENTAGE": 1,
+  "MARKET_TREND_CHECK": true,
+  "MARKET_TREND_INTERVAL": "1h",
+  "CLEAN_DATA_ON_EXIT": false,
+  "CLOSE_TRADE_ON_EXIT": false,
+  "USE_CACHE": false,
+  "TRADING_INTERVAL": "1h",
+  "TRIGGER_INTERVAL": "1h",
+  "STRATEGY": "Whale",
+  "BACKTESTING": {
+    "BACKTESTING_MODE": false,
+    "CAPITAL": 100,
+    "STARTING_EPOCH": 72,
+    "START_TIMESTAMP": 1623960000000,
+    "END_TIMESTAMP": 1630627200000
+  },
+  "STOP_LOSS_TAKE_PROFIT": {
+    "USE_DEFAULT_STOP_STRATEGY": false,
+    "STOPLOSS_PERCENTAGE_LIMIT": -3.5,
+    "TAKEPROFIT_PERCENTAGE_LIMIT": 5,
+    "STOPLOSS_TAKEPROFIT_PERCENTAGE_LIMIT": 4,
+    "STOPLOSS_UPDATE_STEP": 0.236,
+    "TAKEPROFIT_UPDATE_STEP": 0.236,
+    "DYNAMIC_STOPLOSS_TAKEPROFIT": false,
+    "DYNAMIC_SENSIBILITY": 0,
+    "TRAILING_STOPLOSS_TAKEPROFIT": false
+  },
+  "MULTI_TRADE": {
+    "MULTI_TRADE_MODE": true,
+    "TRADE_MANAGEMENT": [
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
+    ]
+  },
+  "TIME_TO_IGNORE_SYMBOL": 21600000,
+  "EMA_STRATEGY_PARAMS": {
+    "FAST_EMA_PERIOD": 20,
+    "SLOW_EMA_PERIOD": 50,
+    "COMBINED_MODE": true,
+    "AVERAGE_MODE": false,
+    "USE_MACD": false,
+    "MACD_FAST_PERIOD": 12,
+    "MACD_SLOW_PERIOD": 26,
+    "MACD_PERIOD": 9,
+    "USE_ADX": true,
+    "ADX_PERIOD": 14,
+    "ADX_THRESHOLD": 25
+  },
+  "WHALE_STRATEGY_PARAMS": {
+    "BYPASS_TREND_CHECK": false,
+    "OBVEMA_PERIOD": 14,
+    "RSI_PERIOD": 14,
+    "RSI_OVERBOUGHT_THRESHOLD": 80,
+    "RSI_OVERSOLD_THRESHOLD": 20,
+    "MFI_PERIOD": 14,
+    "MFI_OVERBOUGHT_THRESHOLD": 70,
+    "MFI_OVERSOLD_THRESHOLD": 30,
+    "CCI_PERIOD": 14,
+    "CCI_OVERBOUGHT_THRESHOLD": 100,
+    "CCI_OVERSOLD_THRESHOLD": -100,
+    "WR_PERIOD": 14,
+    "WR_OVERBOUGHT_THRESHOLD": -20,
+    "WR_OVERSOLD_THRESHOLD": -80,
+    "ADX_PERIOD": 14,
+    "ADX_THRESHOLD": 25,
+    "CHANDELIER_PERIOD": 22,
+    "CHANDELIER_STOP_ONLY": true,
+    "PSAR_STOP_ONLY": false,
+    "FAST_EMA_PERIOD": 20,
+    "SLOW_EMA_PERIOD": 50,
+    "COMBINED_MODE": false,
+    "AVERAGE_MODE": false,
+    "USE_MACD": false,
+    "MACD_FAST_PERIOD": 12,
+    "MACD_SLOW_PERIOD": 26,
+    "MACD_PERIOD": 9
+  },
+  "TRADING_TERM": {
+    "LONG_TERM": false,
+    "MID_TERM": false,
+    "SHORT_TERM": true
+  },
+  "TREND_CONFIG": {
+    "TREND_INTERVAL": "4h",
+    "TREND_INTENSITY_ENABLED": false,
+    "TREND_INTENSITY_SORTING": false,
+    "LONG_TERM_CONFIG": {
+      "interval": "1w",
+      "candlesToAnalyze": 9
+    },
+    "MID_TERM_CONFIG": {
+      "interval": "1d",
+      "candlesToAnalyze": 21
+    },
+    "SHORT_TERM_CONFIG": {
+      "interval": "4h",
+      "candlesToAnalyze": 28
+    },
+    "USE_SINGLE_MA": false,
+    "USE_MA_CROSS": true,
+    "USE_SMA": false,
+    "USE_EMA": true,
+    "SINGLE_MA_PERIODS": {
+      "SMA_PERIOD": 200,
+      "EMA_PERIOD": 200
+    },
+    "MA_CROSS_PERIODS": {
+      "SMA": {
+        "SLOW": 200,
+        "FAST": 50
+      },
+      "EMA": {
+        "SLOW": 200,
+        "FAST": 50
+      }
+    }
+  },
+  "ENABLE_WEBHOOK": true,
+  "WEBHOOK_URLS": [
+    ""
+  ],
+  "APIKEY": "",
+  "REGEX_PATTERN_TO_AVOID": "UP|DOWN|BEAR|BULL",
+  "USELESS_SYMBOLS": [
+    "BCCUSDT",
+    "ERDUSDT",
+    "USDCUSDT",
+    "EURUSDT",
+    "BUSDUSDT",
+    "TUSDUSDT",
+    "USDSUSDT",
+    "PAXUSDT",
+    "VENUSDT",
+    "GBPUSDT",
+    "BKRWUSDT",
+    "AUDUSDT",
+    "BIDRUSDT",
+    "DAIUSDT",
+    "IDRTUSDT",
+    "NGNUSDT",
+    "RUBUSDT",
+    "TRYUSDT",
+    "ZARUSDT",
+    "UAHUSDT",
+    "STORMUSDT",
+    "BCHABCUSDT",
+    "BCHSVUSDT",
+    "USDSBUSDT"
+  ],
+  "DUMMY_STRATEGY_PARAMS": {
+    "RANK_SCORE_THRESHOLD": 10,
+    "BYPASS_TREND_CHECK": false,
+    "OBVEMA_PERIOD": 14,
+    "RSI_PERIOD": 14,
+    "RSI_OVERBOUGHT_THRESHOLD": 80,
+    "RSI_OVERSOLD_THRESHOLD": 20,
+    "MFI_PERIOD": 14,
+    "MFI_OVERBOUGHT_THRESHOLD": 70,
+    "MFI_OVERSOLD_THRESHOLD": 30,
+    "CCI_PERIOD": 14,
+    "CCI_OVERBOUGHT_THRESHOLD": 100,
+    "CCI_OVERSOLD_THRESHOLD": -100,
+    "WR_PERIOD": 14,
+    "WR_OVERBOUGHT_THRESHOLD": -20,
+    "WR_OVERSOLD_THRESHOLD": -80,
+    "ADX_PERIOD": 14,
+    "ADX_THRESHOLD": 25,
+    "CHANDELIER_PERIOD": 22,
+    "CHANDELIER_STOP_ONLY": false,
+    "PSAR_STOP_ONLY": false,
+    "FAST_EMA_PERIOD": 20,
+    "SLOW_EMA_PERIOD": 50,
+    "COMBINED_MODE": false,
+    "AVERAGE_MODE": false,
+    "USE_MACD": false,
+    "MACD_FAST_PERIOD": 12,
+    "MACD_SLOW_PERIOD": 26,
+    "MACD_PERIOD": 9,
+    "STOCHASTIC_PERIOD": 14,
+    "STOCHASTIC_OVERBOUGHT_THRESHOLD": 80,
+    "STOCHASTIC_OVERSOLD_THRESHOLD": 20
+  }
+}

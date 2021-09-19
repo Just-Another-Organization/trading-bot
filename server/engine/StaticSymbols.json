@@ -1,0 +1,309 @@
+{
+  "StaticSymbols": [
+    {
+      "interval": "1h",
+      "symbol": "BTCUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "ETHUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "DOGEUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "BNBUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "ADAUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "XRPUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "MATICUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "SOLUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "LINKUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "FILUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "THETAUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "LTCUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "CTSIUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "VETUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "CHZUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "LRCUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "TRXUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "TFUELUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "SXPUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "ETCUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "EOSUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "AAVEUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "NEOUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "RUNEUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "KSMUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "BCHUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "XLMUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "UNIUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "ONEUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "SUSHIUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "REEFUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "ATOMUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "FTMUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "ZECUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "BTTUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "DASHUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "XMRUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "QTUMUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "CRVUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "ANTUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "LUNAUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "DATAUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "OMGUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "HARDUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "ALGOUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "HOTUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "DENTUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "COMPUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "EGLDUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "WINUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "WAVESUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "HBARUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "ENJUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "ONTUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "1INCHUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "FETUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "YFIUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "KAVAUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "NEARUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "RVNUSDT",
+      "timeframe": "SHORT_TERM"
+    },
+    {
+      "interval": "1h",
+      "symbol": "ZILUSDT",
+      "timeframe": "SHORT_TERM"
+    }
+  ]
+}
