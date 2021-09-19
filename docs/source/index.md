@@ -1,0 +1,3 @@
+# JATB
+
+Welcome to the *JATB*'s documentation.

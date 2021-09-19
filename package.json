@@ -1,7 +1,7 @@
 {
   "name": "jatb",
   "version": "1.0.0",
-  "description": "Just Another Trading Bot, this bot use Binance API to predict cryptocurrencies",
+  "description": "Just Another Trading Bot, a framework to create your own trading strategies.",
   "author": "ZappaBoy",
   "main": "app.js",
   "private": true,
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/ZappaBoy/justanothertradingbot.git"
+    "url": "git+https://github.com/ZappaBoy/JATB.git"
   },
   "keywords": [
     "Just",
@@ -21,9 +21,9 @@
   ],
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/ZappaBoy/JustAnotherTradingBot/issues"
+    "url": "https://github.com/ZappaBoy/JATB/issues"
   },
-  "homepage": "https://github.com/ZappaBoy/JustAnotherTradingBot#readme",
+  "homepage": "https://github.com/ZappaBoy/JATB#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "binance-api-node": "^0.10.49",
